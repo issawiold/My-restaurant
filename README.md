@@ -1,2 +1,2 @@
 # My-restaurant
-!()[https://i.ibb.co/wzbzcNP/Mind-Maps.jpg]
+![](https://i.ibb.co/wzbzcNP/Mind-Maps.jpg)
